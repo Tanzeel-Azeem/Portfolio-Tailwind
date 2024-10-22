@@ -1,0 +1,8 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+.c-form{
+  margin-left: 530px;
+  margin-top: 50px;
+}
